@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package co",
+				"Package Control: Remove Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"pacage l",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pacskage",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"installl",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin.Rufat/Desktop/layout2/index.html",
+		"/C/Users/Admin.Rufat/Desktop/layout(ultiimate)/script(super).js",
+		"/C/Users/Admin.Rufat/Desktop/layout2/css/main.css",
+		"/C/Users/Admin.Rufat/Desktop/layout3/img/url.htm",
+		"/C/Users/Admin.Rufat/source/repos/ConsoleApplication5/Debug/ConsoleApplication5.exe",
+		"/C/Users/Admin.Rufat/Desktop/layout3/script2.js",
+		"/C/Users/Admin.Rufat/Desktop/layout3/css/sas.css",
+		"/C/Users/Admin.Rufat/Desktop/layout3/bbb.html",
+		"/C/Users/Admin.Rufat/Desktop/layout3/index3.html",
+		"/C/Users/Admin.Rufat/Desktop/layout3/css1/nnn.css",
+		"/C/Users/Admin.Rufat/Desktop/layout/index2.html",
+		"/C/Users/Admin.Rufat/Desktop/Новый текстовый документ (3).exe",
+		"/C/Users/Admin.Rufat/Documents/для паскаля/Program54545554545.exe",
+		"/C/Users/Admin.Rufat/Documents/TLauncher-2.48-Installer-0.4.5.exe",
+		"/C/Users/Admin.Rufat/Desktop/layout2/img/Minmatar_logo.png",
+		"/C/Users/Admin.Rufat/Desktop/layout/script.js",
+		"/C/Users/Admin.Rufat/Desktop/layout2/script2.js",
+		"/C/Users/Admin.Rufat/Desktop/layout2/desktop.ini",
+		"/C/Users/Admin.Rufat/Desktop/layout -3.lnk",
+		"/C/Program Files (x86)/Steam/Steam.exe",
+		"/D/Left 4 Dead 2_disk2_0.sid",
+		"/D/Left 4 Dead 2_disk2_1.sid",
+		"/D/Left 4 Dead 2_disk2.sis",
+		"/D/Left 4 Dead 2_disk2.sim",
+		"/C/Users/Admin.Rufat/Desktop/layout/img/Minmatar_logo.png",
+		"/C/Users/Admin.Rufat/Desktop/layout/img/4959483f6bbf16f298e4588d94a55250--icons-buttons.jpg",
+		"/C/Users/Admin.Rufat/Desktop/layout/index.html",
+		"/C/Users/Admin.Rufat/Desktop/layout/css/main.css",
+		"/C/Users/Admin.Rufat/Desktop/layout/img/30597897-5f3203c8-9d26-11e7-9013-b50de524403a.png",
+		"/C/Users/Admin.Rufat/Documents/index.html",
+		"/C/Users/Admin.Rufat/Documents/my games/layuot/css/main.css",
+		"/C/Users/Admin.Rufat/Documents/my games/layuot/index.html",
+		"/C/Users/Admin.Rufat/Documents/my games/layuot/layuot.lnk",
+		"/C/Users/Admin.Rufat/Desktop/layuot.lnk",
+		"/C/Users/Admin.Rufat/Documents/layuot/index.html",
+		"/C/Users/Admin.Rufat/AppData/Roaming/Microsoft/Windows/Recent/layuot.lnk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "indexmnb.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
